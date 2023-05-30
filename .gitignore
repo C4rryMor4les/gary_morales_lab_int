@@ -1,0 +1,4 @@
+#Igornora todos los directorios .idea del proyecto
+.idea
+#Ignora la base de datos sqlite3 que viene por defecto al crear un Proyecto
+*.sqlite3
